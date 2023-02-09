@@ -1,0 +1,16 @@
+AlbumNumber,Album,Year
+1,Songs of Leonard Cohen,1967
+2,Songs from a Room,1969
+3,Songs of Love and Hate,1971
+4,New Skin for the Old Ceremony,1974
+5,Death of a Ladies Man,1977
+6,Recent Songs,1979
+7,Various Positions,1984
+8,I'm your man,1988
+9,The Future,1992
+10,Ten New Songs,2001
+11,Dear Heather,2004
+12,Old Ideas,2012
+13,Popular Problems,2014
+14,You Want it Darker,2016
+15,Thanks for the Dance,2019

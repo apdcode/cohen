@@ -1,0 +1,26 @@
+Position,Title,Album,Year,Album Number,Lyrics
+1,First We Take Manhattan,I'm your man,1988,8,Ah you loved me as a loser. but now you're worried that I just might win. You know the way to stop me. but you don't have the discipline
+2,Anthem,The Future,1992,9,Ring the bells that still can ring - Forget your perfect offering - There is a crack. a crack in everything - That's how the light gets in
+3,Coming Back to You,Various Positions,1984,7,I looked for you in everyone And they called me on that too I lived alone but I was only Coming back to you
+4,Ain't no cure for Love,I'm your man,1988,8,It don't matter. how it all went wrong That don't change the way I feel
+5,Tower of Song,I'm your man,1988,8,So you can stick those little pins in that woodoo doll. I'm very sorry baby doesn't like like me at all
+6,If it Be Your Will,Various Positions,1984,7,From this broken hill - All your praises they shall ring - If it be your will - To let me sing
+7,The Hills,Thanks for the Dance,2019,15,For less than a second Our lives will collide The endless suspended The door open wide And she will be born To someone like you What I left undone She will certainly do
+8,It Seemed the Better Way,You Want it Darker,2016,14,I better hold my tongue. I better take my place. Lift this glass of blood. Try to say the grace
+9,You Want it Darker,You Want it Darker,2016,14,I struggle with some demons. They were middle class and tame
+10,Waiting for the Miracle,The Future,1992,9,Ah. I don't believe you'd like it. You wouldn't like it here. There ain't no entertainment. And the judgments are severe
+11,Chelsea Hotel,New Skin for the Old Ceremony,1974,4,You told me again you preferred handsome men. But for me. you would make an exception
+12,Everybody Knows,I'm your man,1988,8,Everybody knows that you love me baby. Everybody knows that you really do. Everybody knows that you've been faithful. Oh. give or take a night or two
+13,Hallelujah,Various Positions,1984,7,Well. maybe there's a God above - As for me all I've ever learned from love - Is how to shoot somebody who outdrew you
+14,In my Secret Life,Ten New Songs,2001,10,I saw you this morning You were moving so fast Can't seem to loosen my grip On the past
+15,A thousand kisses deep,Ten New Songs,2001,10,I saw there were no oceans left - For scavengers like me - I made it to the forward deck - I blessed our remnant fleet - And then consented to be wrecked - A thousand kisses deep
+16,Famous Blue Raincoat,Songs of Love and Hate,1971,3,Yes. and thanks. for the trouble you took from her eyes - I thought it was there for good so I never tried
+17,Alexandra Leaving,Ten New Songs,2001,10,Do not say the moment was imagined. do not stoop to strategies like this
+18,Hey that's no way to say goodbye,Songs of Leonard Cohen,1967,1,You know my love goes with you as your love stays with me. It's just the way it changes. like the shoreline and the sea
+19,I'm your man,I'm your man,1988,8,But the moon's too bright. The chain's too tight. The beast won't go to sleep. I've been running through. These promises to you. That I made and I could not keep Ah. but a man never got a woman back. Not by begging on his knees
+20,Suzanne,Songs of Leonard Cohen,1967,1,And you know that she's half crazy - But that's why you wanna be there
+21,Heart with no Companion,Various Positions,1984,7,For the heart with no companion. For the soul without a king. For the prima ballerina. Who cannot dance to anything
+22,The Future,The Future,1992,9,Give me back the Berlin wall. Give me Stalin and St. Paul. I've seen the future. brother. It is murder
+23,The Partisan,Songs from a Room,1969,2,An old woman gave us shelter Kept us hidden in the garret Then the soldiers came She died without a whisper
+24,Take This Waltz,I'm your man,1988,8,Now in Vienna. there's ten pretty women. There's a shoulder where death comes to cry. There's a lobby with nine hundred windows. There's a tree where the doves go to die
+25,I can't Forget,I'm your man,1988,8,And I promise. cross my heart. They'll never catch us. But if they do. just tell them it was me
