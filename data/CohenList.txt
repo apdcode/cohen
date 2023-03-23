@@ -1,26 +1,26 @@
-Index|Album Number 2|Year 2|Album 2|Title 2|Position|Title 1|Album 1|Year 1|Album Number 1|Writer|Lyrics
-1|||||1|First We Take Manhattan|I'm your man|1988|8|Cohen|Ah you loved me as a loser, but now you're worried that I just might win. You know the way to stop me, but you don't have the discipline
-2|||||2|Anthem|The Future|1992|9|Cohen, Rebecca De Mornay|Ring the bells that still can ring - Forget your perfect offering - There is a crack, a crack in everything - That's how the light gets in
-3|||||3|Coming Back to You|Various Positions|1984|7|Cohen|I looked for you in everyone And they called me on that too I lived alone but I was only Coming back to you
-4|||||4|Tower of Song|I'm your man|1988|8|Cohen|So you can stick those little pins in that woodoo doll, I'm very sorry baby doesn't like like me at all
-5|||||5|Dance Me to the End of Love|Various Positions|1984|7|Cohen, Strings by David Campbell|Oh, let me see your beauty when the witnesses are gone - Let me feel you moving like they do in Babylon - Show me slowly what I only know the limits of - Dance me to the end of love
-6|||||6|It Seemed the Better Way|You Want it Darker|2016|14|Cohen|I better hold my tongue, I better take my place, Lift this glass of blood, Try to say the grace
-7|||||7|Ain't no cure for Love|I'm your man|1988|8|Cohen|It don't matter, how it all went wrong That don't change the way I feel
-8|||||8|If it Be Your Will|Various Positions|1984|7|Cohen|From this broken hill - All your praises they shall ring - If it be your will - To let me sing
-9|||||9|The Hills|Thanks for the Dance|2019|15|Cohen|For less than a second Our lives will collide The endless suspended The door open wide And she will be born To someone like you What I left undone She will certainly do
-10|9|1992|The Future|Be For Real|10|In my Secret Life|Ten New Songs|2001|10|Cohen, Robinson|I saw you this morning You were moving so fast Can't seem to loosen my grip On the past
-11|13|2014|Popular Problems|Nevermind|11|Everybody Knows|I'm your man|1988|8|Cohen, Sharon Robinson|Everybody knows that you love me baby. Everybody knows that you really do. Everybody knows that you've been faithful. Oh, give or take a night or two
-12|4|1974|New Skin for the Old Ceremony|Lover Lover Lover|12|Waiting for the Miracle|The Future|1992|9|Cohen, Yoav Goren|Ah, I don't believe you'd like it, You wouldn't like it here, There ain't no entertainment, And the judgments are severe
-13|7|1984|Various Positions|Hallelujah|13|Alexandra Leaving|Ten New Songs|2001|10|Cohen, Robinson, based on poem by Constantine P. Cavafy|Do not say the moment was imagined, do not stoop to strategies like this
-14|8|1988|I'm your man|Everybody Knows|14|You Want it Darker|You Want it Darker|2016|14|Cohen|I struggle with some demons, They were middle class and tame
-15|9|1992|The Future|Light as a Breeze|15|A thousand kisses deep|Ten New Songs|2001|10|Cohen, Robinson|I saw there were no oceans left - For scavengers like me - I made it to the forward deck - I blessed our remnant fleet - And then consented to be wrecked - A thousand kisses deep
-16|10|2001|Ten New Songs|In My Secret Life|16|I'm your man|I'm your man|1988|8|Cohen|But the moon's too bright, The chain's too tight, The beast won't go to sleep, I've been running through, These promises to you, That I made and I could not keep Ah, but a man never got a woman back, Not by begging on his knees
-17|10|2001|Ten New Songs|Boogie Street|17|Hallelujah|Various Positions|1984|7|Cohen|Well, maybe there's a God above - As for me all I've ever learned from love Is how to shoot somebody who outdrew you
-18|2|1969|Songs from a Room|The Partisan|18|Chelsea Hotel #2|New Skin for the Old Ceremony|1974|4|Leonard Cohen|You told me again you preferred handsome men. But for me, you would make an exception
-19|12|2012|Old Ideas|Amen|19|Suzanne|Songs of Leonard Cohen|1967|1|Cohen|And you know that she's half crazy - But that's why you wanna be there
-20|8|1988|I'm your man|I Can't Forget|20|Hey that's no way to say goodbye|Songs of Leonard Cohen|1967|1|Cohen|You know my love goes with you as your love stays with me, It's just the way it changes, like the shoreline and the sea
-21|6|1979|Recent Songs|The Gypsy's Wife|21|The Future|The Future|1992|9|Cohen|Give me back the Berlin wall, Give me Stalin and St. Paul, I've seen the future, brother, It is murder
-22|14|2016|You Want it Darker|Steer Your Way|22|Heart with no Companion|Various Positions|1984|7|Cohen|For the heart with no companion, For the soul without a king, For the prima ballerina, Who cannot dance to anything
-23|3|1971|Songs of Love and Hate|Famous Blue Raincoat|23|Famous Blue Raincoat|Songs of Love and Hate|1971|3|Cohen|Yes, and thanks, for the trouble you took from her eyes - I thought it was there for good so I never tried
-24|10|2001|Ten New Songs|Here it is|24|Take This Waltz|I'm your man|1988|8|Federico Garcia Lorca, Cohen|Now in Vienna, there's ten pretty women, There's a shoulder where death comes to cry, There's a lobby with nine hundred windows, There's a tree where the doves go to die
-25|15|2019|Thanks for the Dance|The Hills|25|I Can't Forget|I'm your man|1988|8|Cohen|And I promise, cross my heart, They'll never catch us, But if they do, just tell them it was me
+Index|Album Number 2|Year 2|Album 2|Title 2|Position|Title 1|Album 1|Year 1|Album Number 1|Writer
+1|9|1992|The Future|Anthem|1|First We Take Manhattan|I'm your man|1988|8|Cohen
+2|7|1984|Various Positions|Dance Me to the End of Love|2|Anthem|The Future|1992|9|Cohen, Rebecca De Mornay
+3|9|1992|The Future|Waiting for the Miracle|3|Coming Back to You|Various Positions|1984|7|Cohen
+4|8|1988|I'm your man|Tower of Song|4|Tower of Song|I'm your man|1988|8|Cohen
+5|14|2016|You Want it Darker|You Want it Darker|5|Dance Me to the End of Love|Various Positions|1984|7|Cohen, Strings by David Campbell
+6|12|2012|Old Ideas|Lullaby|6|It Seemed the Better Way|You Want it Darker|2016|14|Cohen
+7|14|2016|You Want it Darker|It Seemed the Better Way|7|Ain't no cure for Love|I'm your man|1988|8|Cohen
+8|8|1988|I'm your man|Take This Waltz|8|If it Be Your Will|Various Positions|1984|7|Cohen
+9|10|2001|Ten New Songs|A thousand kisses deep|9|The Hills|Thanks for the Dance|2019|15|Cohen
+10|9|1992|The Future|Be For Real|10|In my Secret Life|Ten New Songs|2001|10|Cohen, Robinson
+11|13|2014|Popular Problems|Nevermind|11|Everybody Knows|I'm your man|1988|8|Cohen, Sharon Robinson
+12|4|1974|New Skin for the Old Ceremony|Lover Lover Lover|12|Waiting for the Miracle|The Future|1992|9|Cohen, Yoav Goren
+13|7|1984|Various Positions|Hallelujah|13|Alexandra Leaving|Ten New Songs|2001|10|Cohen, Robinson, based on poem by Constantine P. Cavafy
+14|8|1988|I'm your man|Everybody Knows|14|You Want it Darker|You Want it Darker|2016|14|Cohen
+15|9|1992|The Future|Light as a Breeze|15|A thousand kisses deep|Ten New Songs|2001|10|Cohen, Robinson
+16|10|2001|Ten New Songs|In My Secret Life|16|I'm your man|I'm your man|1988|8|Cohen
+17|10|2001|Ten New Songs|Boogie Street|17|Hallelujah|Various Positions|1984|7|Cohen
+18|2|1969|Songs from a Room|The Partisan|18|Chelsea Hotel #2|New Skin for the Old Ceremony|1974|4|Leonard Cohen
+19|12|2012|Old Ideas|Amen|19|Suzanne|Songs of Leonard Cohen|1967|1|Cohen
+20|8|1988|I'm your man|I Can't Forget|20|Hey that's no way to say goodbye|Songs of Leonard Cohen|1967|1|Cohen
+21|6|1979|Recent Songs|The Gypsy's Wife|21|The Future|The Future|1992|9|Cohen
+22|14|2016|You Want it Darker|Steer Your Way|22|Heart with no Companion|Various Positions|1984|7|Cohen
+23|3|1971|Songs of Love and Hate|Famous Blue Raincoat|23|Famous Blue Raincoat|Songs of Love and Hate|1971|3|Cohen
+24|10|2001|Ten New Songs|Here it is|24|Take This Waltz|I'm your man|1988|8|Federico Garcia Lorca, Cohen
+25|15|2019|Thanks for the Dance|The Hills|25|I Can't Forget|I'm your man|1988|8|Cohen
