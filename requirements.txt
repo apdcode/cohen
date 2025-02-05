@@ -6,3 +6,4 @@ numpy==1.24.3
 jupyter-dash==0.4.2
 statsmodels==0.14.0
 scikit-learn==1.2.2
+setuptools==66.1.1
